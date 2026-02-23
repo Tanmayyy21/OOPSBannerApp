@@ -2,7 +2,7 @@
  * UC1: Print the literal text "OOPS" to the console.
  * This is the foundation of the OOPS Banner App project.
  *
- * @author YourName
+ * @author 
  * @version 1.0
  */
 public class OOPSBannerApp {
