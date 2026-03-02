@@ -57,12 +57,7 @@ public class UC8 {
         return map;
     }
 
-    /**
-     * Utility method to display banner message
-     *
-     * @param message Word to render
-     * @param patternMap Map containing character patterns
-     */
+   
     private static void displayBanner(String message, Map<Character, String[]> patternMap) {
 
         // Banner has 7 rows
